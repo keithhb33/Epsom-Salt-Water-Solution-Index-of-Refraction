@@ -1,2 +1,5 @@
 # Epsom-Salt-Water-Solution-Index-of-Refraction
-Epsom salt-water solution Index of Refraction
+
+
+More info can be viewed at this research paper:
+LINK WIP
